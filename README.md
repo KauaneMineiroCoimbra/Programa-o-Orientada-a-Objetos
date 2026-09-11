@@ -1,0 +1,1 @@
+Repositório acadêmico do 3º semestre, dedicado à disciplina de Programação Orientada a Objetos. Contém atividades, exercícios e projetos desenvolvidos durante o semestre, abordando conceitos como classes, objetos, encapsulamento, herança, polimorfismo, abstração e boas práticas de programação.
